@@ -5,10 +5,11 @@ I am a doctoral student in business economics at Harvard University. I am from M
 ### Doctoral research
 
 ### Predoctoral research
-[Joint Culpability: The Impact of Medical Marijuana Laws on Crime](https://www.sciencedirect.com/science/article/abs/pii/S016726811830180X) (with Luke Chu), Journal of Economic Behavior & Organization, 159, 2019.
 
 [Earnings Dynamics and Measurement Error in Matched Survey and Administrative Data](https://www.tandfonline.com/doi/abs/10.1080/07350015.2018.1514308)
 (with Dean Hyslop), Journal of Business & Economics Statistics, 138(2), 2020.
+
+[Joint Culpability: The Impact of Medical Marijuana Laws on Crime](https://www.sciencedirect.com/science/article/abs/pii/S016726811830180X) (with Luke Chu), Journal of Economic Behavior & Organization, 159, 2019.
 
 [Effects of (Ultra-Fast) Fibre Broadband on Student Achievement](https://www.sciencedirect.com/science/article/abs/pii/S0167624517301828) (with Arthur Grimes), Information Economics and Policy, 44, 2018.
 
