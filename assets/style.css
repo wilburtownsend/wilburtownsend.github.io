@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Utopia';
+    src: url('Utopia-Regular.woff2') format('woff2'),
+        url('Utopia-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
 .highlight table td{padding:5px}
 .highlight table pre{margin:0}
 .highlight .cm{color:#777772;font-style:italic}
@@ -65,7 +75,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
 ol,ul{list-style:none}
 table{border-collapse:collapse;border-spacing:0}
-body{box-sizing:border-box;font-size:16px;font-family: utopia-std, serif;
+body{box-sizing:border-box;font-size:16px;font-family: Utopia, serif;
 font-style: normal;
 font-weight: 400;
 line-height:1.5;-webkit-font-smoothing:antialiased}
