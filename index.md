@@ -5,7 +5,7 @@ I am a doctoral student in business economics at Harvard University. I am from M
 ### Doctoral research
 
 [Market Design for a Monopsonistic Labor Market](papers/market design monopsony.pdf)
-(with Jesse Silbert), 2021.
+(with [Jesse Silbert](https://jesse-silbert.github.io/)), 2021.
 
 
 ### Predoctoral research
