@@ -10,6 +10,12 @@ I am a doctoral student in business economics at Harvard University. I am from M
 
 ### Predoctoral research
 
+[Social Capital I: Measurement and Associations with Economic Mobility](https://www.nature.com/articles/s41586-022-04996-4)
+(with Raj Chetty, Matthew O. Jackson, Theresa Kuchler, Johannes Stroebel, Nathaniel Hendren, Robert B. Fluegge, Sara Gong, Federico Gonzalez, Armelle Grondin, Matthew Jacob, Drew Johnston, Martin Koenen, Eduardo Laguna-Muggenburg, Florian Mudekereza, Tom Rutter, Nicolaj Thor, Ruby Zhang, Mike Bailey, Pablo Barberá, Monica Bhole & Nils Wernerfelt), Nature, 608 (7921), 2022.
+
+[Social Capital II: Determinants of Economic Connectedness](https://www.nature.com/articles/s41586-022-04997-3)
+(with Raj Chetty, Matthew O. Jackson, Theresa Kuchler, Johannes Stroebel, Nathaniel Hendren, Robert B. Fluegge, Sara Gong, Federico Gonzalez, Armelle Grondin, Matthew Jacob, Drew Johnston, Martin Koenen, Eduardo Laguna-Muggenburg, Florian Mudekereza, Tom Rutter, Nicolaj Thor, Ruby Zhang, Mike Bailey, Pablo Barberá, Monica Bhole & Nils Wernerfelt), Nature, 608 (7921), 2022.
+
 [Earnings Dynamics and Measurement Error in Matched Survey and Administrative Data](https://www.tandfonline.com/doi/abs/10.1080/07350015.2018.1514308)
 (with Dean Hyslop), Journal of Business & Economics Statistics, 138(2), 2020.
 
