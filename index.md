@@ -14,7 +14,7 @@ I am a doctoral student in business economics at Harvard University. I am from M
 (with Raj Chetty, Matthew O. Jackson, Theresa Kuchler, Johannes Stroebel et al.), Nature, 608(7921), 2022.
 
 [Social Capital II: Determinants of Economic Connectedness](https://www.nature.com/articles/s41586-022-04997-3)
-(with Raj Chetty, Matthew O. Jackson, Theresa Kuchler, Johannes Stroebel, et al.), Nature, 608(7921), 2022.
+(with Raj Chetty, Matthew O. Jackson, Theresa Kuchler, Johannes Stroebel et al.), Nature, 608(7921), 2022.
 
 [Earnings Dynamics and Measurement Error in Matched Survey and Administrative Data](https://www.tandfonline.com/doi/abs/10.1080/07350015.2018.1514308)
 (with Dean Hyslop), Journal of Business & Economics Statistics, 138(2), 2020.
