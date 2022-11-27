@@ -4,7 +4,7 @@ I am a doctoral student in business economics at Harvard University. I am from M
 
 ### Doctoral research
 
-[Centralizing a Monopsonistic Labor Market](papers/market design monopsony.pdf)
+[Stable Matching in Monopsonistic Labor Markets](papers/market design monopsony.pdf)
 (with [Jesse Silbert](https://jesse-silbert.github.io/)), 2022.
 
 
