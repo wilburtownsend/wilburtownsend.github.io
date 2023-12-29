@@ -1,6 +1,6 @@
 ## Wilbur Townsend
 
-I am a doctoral student in business economics at Harvard University. I am from Motueka, Aotearoa New Zealand. I am interested in power, violence, space, and the optimal conduct of fiscal policy.
+I am a labor economist from New Zealand. I am currently a doctoral student at Harvard University, where my research focusses on wage-setting, market design and immigration. I am also interested in networks, deviance, and power relations within the firm. I was raised in Motueka, the Wairarapa and the Catlins.
 
 ### Doctoral research
 
