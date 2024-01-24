@@ -4,8 +4,8 @@ I am a labor economist from New Zealand. I am currently a doctoral student at Ha
 
 ### Doctoral research
 
-[Stable Matching in Monopsonistic Labor Markets](papers/market design monopsony.pdf)
-(with [Jesse Silbert](https://jesse-silbert.github.io/)), 2022.
+[Job Matching without Price Discrimination](papers/market design monopsony.pdf)
+(with [Jesse Silbert](https://jesse-silbert.github.io/)), 2024.
 
 
 ### Predoctoral research
