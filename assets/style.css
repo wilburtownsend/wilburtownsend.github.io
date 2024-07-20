@@ -9,7 +9,7 @@
 
 #main_content {
     border: 40px solid;
-  border-image: url("assets/ballooons.jpg") 27;
+  border-image: url("ballooons.jpg") 27;
   border-image-repeat: round;
 
 }
