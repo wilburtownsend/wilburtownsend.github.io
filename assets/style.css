@@ -25,13 +25,6 @@ a{text-decoration:none;color:#0F79D0;text-shadow:none;transition:color 0.5s ease
 a:hover,a:focus{text-decoration:underline}
 img{position:relative;margin:0 auto;max-width:739px;padding:5px;margin:10px 0 10px 0;border:1px solid #ebebeb;box-shadow:0 0 5px #ebebeb;-webkit-box-shadow:0 0 5px #ebebeb;-moz-box-shadow:0 0 5px #ebebeb;-o-box-shadow:0 0 5px #ebebeb;-ms-box-shadow:0 0 5px #ebebeb}
 p img{display:inline;margin:0;padding:0;vertical-align:middle;text-align:center;border:none}
-pre,code{color:#222;background-color:#fff;font-family:Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:14px;border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px}
-pre{padding:10px;box-shadow:0 0 10px rgba(0,0,0,0.1);overflow:auto}
-code{padding:3px;margin:0 3px;box-shadow:0 0 10px rgba(0,0,0,0.1)}
-pre code{display:block;box-shadow:none}
-ul,ol,dl{margin-bottom:15px}
-ul{list-style-position:inside;list-style:disc;padding-left:20px}
-ol{list-style-position:inside;list-style:decimal;padding-left:20px}
 .outer{width:100%}
 .inner{position:relative;max-width:640px;padding:20px 10px;margin:0 auto}
 @media screen and (max-width: 992px){img{max-width:100%}}
