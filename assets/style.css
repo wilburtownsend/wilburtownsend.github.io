@@ -9,7 +9,7 @@
 
 #main_content {
     border: 40px solid;
-  border-image: url("ballooons.jpg") 27;
+  border-image: url("ballooons.jpg") 120 120 140 120;
   border-image-repeat: round;
 
 }
@@ -33,7 +33,7 @@ a:hover,a:focus{text-decoration:underline}
 img{position:relative;margin:0 auto;max-width:739px;padding:5px;margin:10px 0 10px 0;border:1px solid #ebebeb;box-shadow:0 0 5px #ebebeb;-webkit-box-shadow:0 0 5px #ebebeb;-moz-box-shadow:0 0 5px #ebebeb;-o-box-shadow:0 0 5px #ebebeb;-ms-box-shadow:0 0 5px #ebebeb}
 p img{display:inline;margin:0;padding:0;vertical-align:middle;text-align:center;border:none}
 .outer{width:100%}
-.inner{position:relative;max-width:640px;padding:20px 10px;margin:0 auto}
+.inner{position:relative;max-width:640px;padding:0px 10px;margin:0 auto}
 @media screen and (max-width: 992px){img{max-width:100%}}
 @media screen and (max-width: 480px){body{font-size:14px}
 .inner{min-width:320px;max-width:480px}
