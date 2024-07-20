@@ -53,22 +53,13 @@ ul{padding-left:15px}
     #main_content {
         grid-template-columns: 1fr; /* On smaller screens, switch to a single column */
     }
+.column {
+  padding:0px;
+}
 }
 
 
 @media screen and (max-width: 480px){
-    body{font-size:14px}
-    .inner{min-width:320px;max-width:480px}
-    h1{font-size:28px}
-    h2{font-size:24px}
-    h3{font-size:21px}
-    h4{font-size:18px}
-    h5{font-size:14px}
-    h6{font-size:12px}
-}
-@media screen and (max-width: 320px){
-    body{font-size:14px}
-    #downloads{display:none}
     .inner{min-width:240px;max-width:320px}
     h1{font-size:24px}
     h2{font-size:21px}
@@ -76,5 +67,13 @@ ul{padding-left:15px}
     h4{font-size:16px}
     h5{font-size:14px}
     h6{font-size:12px}
+
+#main_content {
+    border: 20px solid;
+  border-image: url("ballooons.jpg") 120 120 140 120;
+  border-image-repeat: round;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
 }
 
