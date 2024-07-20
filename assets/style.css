@@ -72,8 +72,6 @@ ul{padding-left:15px}
     border: 20px solid;
   border-image: url("ballooons.jpg") 120 120 140 120;
   border-image-repeat: round;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
 }
 }
 
