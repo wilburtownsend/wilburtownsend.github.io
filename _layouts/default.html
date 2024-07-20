@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-NZ">
+<html lang="{{ site.lang | default: "en-US" }}">
 
   <head>
     <meta charset='utf-8'>
@@ -14,11 +14,9 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <h2> Wilbur Townsend </h2>
-      <p>I am a labor economist from New Zealand. I am currently a doctoral student at Harvard University, where my research focusses on wage-setting, market design and immigration.  I was raised in Motueka, the Wairarapa and the Catlins.</p>
-  
+      <section id="main_content" class="inner">
         {{ content }}
-    </section>
+      </section>
     </div>
 
     <!-- FOOTER  -->
